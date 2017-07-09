@@ -1,2 +1,3 @@
-# task-nunjucks
-Pure nunjucks gulp task
+# Nunjucks Template REndering Task
+
+Pure nunjucks gulp task.
